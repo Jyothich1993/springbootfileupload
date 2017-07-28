@@ -1,0 +1,3 @@
+fileupload\Application.class
+fileupload\resources\UploadFileResource.class
+fileupload\JerseyConfig.class
